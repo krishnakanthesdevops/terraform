@@ -5,4 +5,4 @@ variable "public_subnet1" {}
 variable "public_subnet2" {}
 variable "public_subnet1_cidr" {}
 variable "public_subnet2_cidr" {}
-variable "s3_bucket_name" {}
+#variable "s3_bucket_name" {}
