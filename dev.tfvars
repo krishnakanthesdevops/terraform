@@ -1,8 +1,0 @@
-access_key = "AKIAUYL32ILNY23Y5RVS"
-secret_key = "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"
-vpc_cidr = "10.9.0.0/16"
-public_subnet1 = "dev-SUBNET-1"
-public_subnet2 = "dev-SUBNET-2"
-public_subnet1_cidr = "10.9.4.0/24"
-public_subnet2_cidr = "10.9.5.0/24"
-#s3_bucket_name = "terraformkrishnakanthdev"
